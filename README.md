@@ -1,4 +1,4 @@
-# NMOPSO - 导航变量多目标粒子群优化算法
+# ZJU-25算法大作业2 - 导航变量多目标粒子群优化算法
 
 Navigation Variable-based Multi-objective Particle Swarm Optimization for UAV Path Planning
 
